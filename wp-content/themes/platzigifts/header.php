@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Funcion de Wordpress que nos traer todas las dependencias que
      se carguen en el encabezado -->
+     <!-- Carga las dependencias del head -->
      <?php  wp_head()?>
 
 </head>
