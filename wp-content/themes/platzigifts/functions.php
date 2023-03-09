@@ -10,4 +10,4 @@ function initTemplate(){
 
 // HOOK que recibe dos parametros, el segundo parametro es el nombre de nuestra funcion
 
-add_action('after_setup_theme', 'initTemplate');  
+add_action('after_setup_theme', 'initTemplate'); 
